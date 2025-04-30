@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Product from "./pages/Product";
 import Contact from "./pages/Contact";
 import Layout from "./components/Layout";
-
+/*Author : Karthick Ramesh Kumar */
 function App() {
   return (
     <>
